@@ -12,6 +12,12 @@
 	<name>JasperReports Library Artifacts</name>
 	<description>Free Java Reporting Library</description>
 	<url>http://jasperreports.sourceforge.net</url>
+	<repositories>
+		<repository>
+		    <id>jitpack.io</id>
+		    <url>https://jitpack.io</url>
+		</repository>
+	</repositories>
 	<modules>
 		<module>tools/metadata</module>
 		<module>tools/annotation-processors</module>
